@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakshukla1316&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakshukla1316" /> </p>
 
-- 🔭 Software Engineer Intern at [Forklyft](https://forklyft.in)
+- 🔭 Software Engineer
 
 - 🌱 I’m currently working as a **Full Stack Developer, experienced in MERN Stack, Redux, Next JS, Tailwind.**
 
